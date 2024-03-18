@@ -20,7 +20,5 @@ ExchangeX is a simple currency exchange calculator built with React. Users can i
 - FontAwesomeIcon
 - CurrencyAPI
 
-## Screenshots
 
-[Include screenshots here]
 
